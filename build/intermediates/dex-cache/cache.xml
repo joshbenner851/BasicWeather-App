@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Josh\Documents\GitHub\AndroidBasics\app\build\intermediates\pre-dexed\debug\okhttp-2.2.0-41fa7d8858e8c32d2f52c56e683594119d46ce73.jar"
+        jar="C:\Users\Josh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.2.0\959c454243581fdf730abfd4f4745441724bcf2c\okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c"/>
+    <item
+        dex="C:\Users\Josh\Documents\GitHub\AndroidBasics\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0-72e2fc06297d1a9a6c7e3d24edbe79dcef6eb4ba.jar"
+        jar="C:\Users\Josh\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a"/>
+    <item
+        dex="C:\Users\Josh\Documents\GitHub\AndroidBasics\app\build\intermediates\pre-dexed\debug\okio-1.2.0-720c5b8481d6c1fb9640f7ee86056d936c2dc597.jar"
+        jar="C:\Users\Josh\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.2.0\c0b52915a48fa91b1b94a28d4a2997bac5f524df\okio-1.2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df"/>
+
+</pre-dex-items>
